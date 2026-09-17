@@ -1,8 +1,10 @@
 # Hi there 👋, I'm Mohamed Ali
 ### Quality Assurance (QA) Engineer | Software Tester
 
-Detail-oriented and passionate QA Engineer transitioning from a science background with a strong foundation in analytical thinking, manual testing, automation, and API validation. Dedicated to ensuring software reliability, enhancing user experience, and collaborating with cross-functional teams to deliver bug-free products.
-
+I am Mohamed Ali, a passionate and detail-oriented software tester who is currently focusing on building strong skills in software testing. I have studied the full content of the ISTQB Foundation Level, and I am experienced in writing test cases, bug reports, and managing agile projects.
+I worked with tools like Trello, Jira, Postman, and Selenium WebDriver, and these experiences have given me a proven track record of ensuring software quality. I have continuously improved my problem-solving abilities and communication skills, and I have been learning automation and API testing to expand my expertise.
+As a skilled communicator and client-focused professional, I always aim to deliver results on time while maintaining high standards. I am result-driven and have consistently shown that testing is not only about finding bugs but also about creating value.
+If you are looking for someone who is passionate, reliable, and timely delivered, I am ready to contribute my skills and enthusiasm to your project.
 ---
 
 ## 🛠️ Technical Skills & Tools
@@ -46,8 +48,8 @@ Detail-oriented and passionate QA Engineer transitioning from a science backgrou
 
 ## 📬 Connect with Me
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Email Address]
+* **LinkedIn:** [https://www.linkedin.com/in/mohamed2li/]
+* **Email:** [m99mohamed11@outlook.com]
 * **Portfolio Website:** [Your GitHub Pages Portfolio Link]
 
 ---
