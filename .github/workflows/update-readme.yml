@@ -1,0 +1,27 @@
+name: Update README Timestamp
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # يتم التحديث تلقائياً كل يوم منتصف الليل
+  workflow_dispatch: # يتيح لك تشغيل اليدوي من تبويب Actions
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update timestamp in README
+        run: |
+          # توليد التاريخ الحالي
+          CURRENT_DATE=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          
+          # استبدال النص القديم بالتاريخ الجديد داخل ملف الردمي
+          sed -i "s/<!-- LAST_SYNC:START -->.*<!-- LAST_SYNC:END -->/<!-- LAST_SYNC:START --> $CURRENT_DATE <!-- LAST_SYNC:END -->/" README.md
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update profile README timestamp"
+          file_pattern: README.md
