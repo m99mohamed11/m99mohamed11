@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m99mohamed1/m99mohamed1/main/banner.png" alt="Mohamed Ali Banner" width="100%">
+  <img src="https://github.com/m99mohamed11/m99mohamed11/blob/main/.github/banner.png" width="100%">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&width=480&lines=Mohamed+Ali;Software+QA+Engineer;Manual+%26+Automation+Testing;API+Testing+%26+Bug+Tracking" alt="Typing SVG" />
