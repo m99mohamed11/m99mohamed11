@@ -88,19 +88,11 @@ Here is a snapshot of the technologies, tools, and methodologies I leverage for 
 ## 📜 Professional Training & Initiatives
 
 * **Digital Egypt Pioneers Initiative (DEPI)** – Software Testing Track (Egyptian Ministry of Communications and Information Technology).
-* **ISTQB Foundation Level Concepts** – Equivalence Partitioning, Boundary Value Analysis, Decision Table Testing, and BDD (Gherkin).
 
 ---
 
 ## 📊 GitHub Stats & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m99mohamed1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m99mohamed1&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m99mohamed1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
