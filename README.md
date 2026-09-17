@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/m99mohamed1/m99mohamed1/main/banner.png" alt="Mohamed Ali Banner" width="100%">
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&width=480&lines=Mohamed+Ali;Software+QA+Engineer;Manual+%26+Automation+Testing;API+Testing+%26+Bug+Tracking" alt="Typing SVG" />
 </p>
 
@@ -30,7 +33,7 @@ Detail-oriented and passionate QA Engineer transitioning from a science backgrou
 <a href="https://www.linkedin.com/in/mohamed2li/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/m99mohamed1" target="_blank">
+<a href="https://github.com/m99mohamed11" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
