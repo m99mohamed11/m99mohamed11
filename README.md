@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/m99mohamed1/m99mohamed1/main/banner.png" alt="Banner" width="100%">
 </p>
-*(ملاحظة: Banner.png هو مجرد مثال، يمكنك رفع صورة بانر خاصة بك في مستودعك واستبدال الرابط إن أردت)*
+
 
 ---
 
@@ -24,10 +24,10 @@ Detail-oriented and passionate QA Engineer transitioning from a science backgrou
 
 ### 📬 Connect with Me
 
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="mailto:your-m99mohamed11@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+<a href="https://www.linkedin.com/in/mohamed2li/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/m99mohamed1" target="_blank">
